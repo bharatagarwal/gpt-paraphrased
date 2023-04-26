@@ -5,16 +5,9 @@ The Hammock-Driven Philosophy
 - Conference: Clojure/Conj 2010 - Oct 2010
 - Video: https://www.youtube.com/watch?v=f84n5oFoZBc
 
-## A Time for Thought
-
 As mentioned before, this is a more philosophical talk. It is an experience report, not advocacy. There is little methodology or science involved. Reflect on the last time you devoted an hour, a day, a month, or even a year to a single thought. These moments are rare and incredibly valuable. For some, like myself, having the opportunity to contemplate something like Clojure for an extended period is a treasure.
 
-## Confidence in the Unknown
-
-
 Consider when you last faced a new challenge and felt confident in tackling it. As software developers, we often find ourselves working on repetitive tasks, but the luckier we are, the more likely we will face unique problems. How do you approach these situations without feeling immense risk?
-
-## The Truth About Software Development
 
 We despise bugs in our programs and strive for quality. We know that fixing issues in the field is costly, so we rely on testing and quality assurance. But is testing during development the best way to prevent bugs?
 
@@ -25,8 +18,6 @@ The least expensive place to fix bugs is during the design phase. Most significa
 ## The Importance of Step One
 
 To avoid costly mistakes and ensure the success of a project, focus on the first step. Address misconceptions and thoroughly understand the problem before diving into implementation. Embrace the value of contemplation and thought in your development process.
-
-## The Forgotten Step
 
 Analysis and Design may seem outdated and reminiscent of the criticized Waterfall Model, but that doesn't mean the step before 'go do it' is unimportant. Often, we don't dedicate enough time or resources to this phase, which leads to a decline in quality. Let's redefine Analysis and Design as two essential actions: identifying a problem to solve and assessing whether the proposed solution solves that problem.
 
@@ -67,7 +58,7 @@ When working on problem-solving, it's essential to be critical of your own solut
 
 Recognize that you don't know everything and embrace the unknowns. Ask questions and leave room for inquiry in your problem-solving process. If your documentation doesn't have any question marks, you may be missing a crucial step.
 
-## Seek Diverse Inputs
+## Seek Diverse Input
 
 To develop well-rounded solutions, expose yourself to various sources of information. This includes reading widely within your field, examining specific cases, and exploring broader related topics. Research papers can provide valuable insights, even if you only understand a small portion of their content. These diverse inputs can help you make connections between ideas and generate more innovative solutions.
 
