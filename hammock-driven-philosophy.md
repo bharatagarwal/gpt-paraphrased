@@ -1,4 +1,5 @@
-# The Hammock-Driven Philosophy
+The Hammock-Driven Philosophy
+=============================
 
 - Speaker: Rich Hickey
 - Conference: Clojure/Conj 2010 - Oct 2010
