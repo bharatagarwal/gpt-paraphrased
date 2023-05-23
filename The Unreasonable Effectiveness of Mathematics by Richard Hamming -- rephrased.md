@@ -21,20 +21,6 @@ In several aspects, this discussion is deeply theoretical. I find it necessary t
 
 The spark for this paper was ignited by a similarly titled work, “The Unreasonable Effectiveness of Mathematics in the Natural Sciences”, by E. P. Wigner. It will be observed that I have omitted a segment of the title, and for those familiar with it, I have not duplicated much of his content (I feel no need to attempt to enhance his exposition). Conversely, I will devote considerably more effort to unravel the implicit query in the title. Yet, even when all my explanations have been exhausted, a significant remnant remains, leaving the question essentially unaddressed.
 
-## Source and Boundaries
-One might ask, why this undue focus on mathematics? Because it is our most effective tool in unraveling the intricate fabric of the universe. From earliest times, humans have realized that to make sense of the world around them, they need a structured approach to reasoning - mathematics fills that role. Yet, we still grapple with questions regarding the inception and the limitations of this discipline.
-
-Scholars involved in the foundational aspects of mathematics primarily focus on the system's internal coherence and constraints. There seems to be a lack of interest in why the universe allows for a logical explanation. In this sense, I stand with the early Greek philosophers who were curious about the tangible, material aspects of the universe. My insights on the logical aspect may not be superior to theirs, but we must commence somewhere to decode the observable reality that the world seems to abide by a pattern that mirrors much of mathematics.
-
-It is a conscious decision to adopt the experimental approach. One could argue that this is in contrast to the more typical theoretical stance of mathematicians. They might contest the essence of what I propose, and my approach might jar with their preconceptions. But that is a risk I am willing to take.
-
-Remember, this discourse is highly theoretical. We touch upon various theories related to mathematics and its applications. So, in a way, it leads us to a theory of theories. Let's set aside what these theories purport to be, or what we believe they should be, or what the experts claim they are. Our task is to adopt the scientific perspective and examine what they truly are.
-
-## Enigma
-The inspiration for this discourse originates from a similarly titled article, "The Unreasonable Effectiveness of Mathematics in the Natural Sciences", by E. P. Wigner. It will be noticed that I have excluded a part of the title, and for those who have read his work, I haven't replicated much of his material. I do not feel the need to enhance his exposition, for his presentation was, in my view, impeccable.
-
-I shall, however, spend a larger portion of time grappling with the implied question of the title. Why is mathematics so irrationally effective? It is a question that has baffled thinkers throughout the ages. And despite all my attempts to elucidate, the residue of the mystery remains considerable, leaving the question still largely unaddressed. And thus, the enigma remains.
-
 In his thoughtful treatise, Wigner probes the profound depth of mathematics in the realm of physical sciences. I'll refer to my own trials, closer to the craft of engineering. My maiden real-world encounter with the predictive might of mathematics traced back to the design of atomic bombs during the World War II. The primitive relay computers' output harmonized with the events of the initial test shot at Almagordo - a phenomenon that puzzled me. There existed no opportunity for small-scale experiments to validate our computations. Further encounters with guided missiles echoed the same enigma: the tangible world faithfully reflected our mathematical predictions.
 
 ## Echoes in Engineering
