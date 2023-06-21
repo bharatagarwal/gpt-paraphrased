@@ -1,0 +1,3 @@
+- Request: Abstract on the sad cycle of innocent teachers damaging students in school.
+- SIMPLICIO is feeling depressed.
+- SALVIATI suggests discussing a pyramid inside a cube.

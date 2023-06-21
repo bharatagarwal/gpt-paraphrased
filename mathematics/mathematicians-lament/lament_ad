@@ -1,0 +1,111 @@
+i "definitions." The curriculum is obsessed with jargon and nomenclature, seemingly for no other purpose than to provide teachers with something to test the students on. No mathematician in the world would bother making these senseless distinctions: 2 1/2 is a "mixed number," while 5/2 is an "improper fraction." They're equal for crying out loud. They are the same exact numbers, and have the same exact properties. Who uses such words outside of fourth grade?
+
+Of course it is far easier to test someone's knowledge of a pointless definition than to inspire them to create something beautiful and to find their own meaning. Even if we agree that a basic common vocabulary for mathematics is valuable, this isn't it. How sad that fifth-graders are taught to say "quadrilateral" instead of "four-sided shape," but are never given a reason to use words like "conjecture," and "counterexample." High school students must learn to use the secant function, ‘sec x,' as an abbreviation for the reciprocal of the cosine function, ‘1 / cos x,' (a definition with as much intellectual weight as the decision to use ‘&' in place of "and." ) That this particular shorthand, a holdover from fifteenth century nautical tables, is still with us (whereas others, such as the "versine" have died out) is mere historical accident, and is of utterly no value in an era when rapid and precise shipboard computation is no longer an issue.
+
+Thus we clutter our math classes with pointless nomenclature for its own sake.
+
+In practice, the curriculum is not even so much a sequence of topics, or ideas, as it is a sequence of notations. Apparently mathematics consists of a secret list of mystical symbols and rules for their manipulation. Young children are given ‘+' and ‘÷.' Only later can they be entrusted with ‘√¯,' and then ‘x' and ‘y' and the alchemy of parentheses. Finally, they are indoctrinated in the use of ‘sin,' ‘log,' ‘f(x),' and if they are deemed worthy, ‘d' and ‘∫.' All without having had a single meaningful mathematical experience.
+
+This program is so firmly fixed in place that teachers and textbook authors can reliably predict, years in advance, exactly what students will be doing, down to the very page of exercises. It is not at all uncommon to find second-year algebra students being asked to calculate [ f(x + h) – f(x) ] / h for various functions f, so that they will have "seen" this when they take calculus a few years later. Naturally no motivation is given (nor expected) for why such a seemingly random combination of operations would be of interest, although I'm sure there are many teachers who try to explain what such a thing might mean, and think they are doing their students a favor, when in fact to them it is just one more boring math problem to be gotten over with. "What do they want me to do? Oh, just plug it in? OK." Another example is the training of students to express information in an unnecessarily complicated form, merely because at some distant future period it will have meaning. Does any middle school algebra teacher have the slightest clue why he is asking his students to rephrase "the number x lies between three and seven" as |x - 5| < 2 ? Do these hopelessly inept textbook authors really believe they are helping students by preparing them for a possible day, years hence, when they might be operating within the context of a higher-dimensional geometry or an abstract metric space? I doubt it. I expect they are simply copying each other decade after decade, maybe changing the fonts or the highlight colors, and beaming with pride when an school system adopts their book, and becomes their unwitting accomplice.
+
+Mathematics is about problems, and problems must be made the focus of a students mathematical life. Painful and creatively frustrating as it may be, students and their teachers should at all times be engaged in the process— having ideas, not having ideas, discovering patterns, making conjectures, constructing examples and counterexamples, devising arguments, and critiquing each other's work. Specific techniques and methods will arise naturally out of this process, as they did historically: not isolated from, but organically connected to, and as an outgrowth of, their problem-background.
+
+English teachers know that spelling and pronunciation are best learned in a context of reading and writing. History teachers know that names and dates are uninteresting when removed from the unfolding backstory of events. Why does mathematics education remain stuck in the nineteenth century? Compare your own experience of learning algebra with Bertrand Russell's recollection:
+
+> "I was made to learn by heart: ‘The square of the sum of two numbers is equal to the sum of their squares increased by twice their product.' I had not the vaguest idea what this meant and when I could not remember the words, my tutor threw the book at my head, which did not stimulate my intellect in any way."
+
+Are things really any different today?
+
+SIMPLICIO: I don't think that's very fair. Surely teaching methods have improved since then.
+
+SALVIATI: You mean training methods. Teaching is a messy human relationship; it does not require a method. Or rather I should say, if you need a method you're probably not a very good teacher. If you don't have enough of a feeling for your subject to be able to talk about it in your own voice, in a natural and spontaneous way, how well could you understand it? And speaking of being stuck in the nineteenth century, isn't it shocking how the curriculum itself is stuck in the seventeenth? To think of all the amazing discoveries and profound revolutions in mathematical thought that have occurred in the last three centuries! There is no more mention of these than if they had never happened.
+
+SIMPLICIO: But aren't you asking an awful lot from our math teachers? You expect them to provide individual attention to dozens of students, guiding them on their own paths toward discovery and enlightenment, and to be up on recent mathematical history as well? SALVIATI: Do you expect your art teacher to be able to give you individualized, knowledgeable advice about your painting? Do you expect her to know anything about the last three hundred years of art history? But seriously, I don't expect anything of the kind, I only wish it were so.
+
+SIMPLICIO: So you blame the math teachers?
+
+SALVIATI: No, I blame the culture that produces them. The poor devils are trying their best, and are only doing what they've been trained to do. I'm sure most of them love their students and hate what they are being forced to put them through. They know in their hearts that it is meaningless and degrading. They can sense that they have been made cogs in a great soul-crushing machine, but they lack the perspective needed to understand it, or to fight against it. They only know they have to get the students "ready for next year."
+
+SIMPLICIO: Do you really think that most students are capable of operating on such a high level as to create their own mathematics?
+
+SALVIATI:
+
+If we honestly believe that creative reasoning is too "high" for our students, and that they can't handle it, why do we allow them to write history papers or essays about Shakespeare? The problem is not that the students can't handle it, it's that none of the teachers can. They've never proved anything themselves, so how could they possibly advise a student? In any case, there would obviously be a range of student interest and ability, as there is in any subject, but at least students would like or dislike mathematics for what it really is, and not for this perverse mockery of it.
+
+SIMPLICIO: But surely we want all of our students to learn a basic set of facts and skills. That's what a curriculum is for, and that's why it is so uniform— there are certain timeless, cold hard facts we need our students to know: one plus one is two, and the angles of a triangle add up to 180 degrees. These are not opinions, or mushy artistic feelings.
+
+SALVIATI: On the contrary. Mathematical structures, useful or not, are invented and developed within a problem context, and derive their meaning from that context. Sometimes we want one plus one to equal zero (as in so-called ‘mod 2' arithmetic) and on the surface of a sphere the angles of a triangle add up to more than 180 degrees. There are no "facts" per se; everything is relative and relational. It is the story that matters, not just the ending.
+
+SIMPLICIO: I'm getting tired of all your mystical mumbo-jumbo! Basic arithmetic, all right? Do you or do you not agree that students should learn it?
+
+SALVIATI:
+
+That depends on what you mean by "it." If you mean having an appreciation for the problems of counting and arranging, the advantages of grouping and naming, the distinction between a representation and the thing itself, and some idea of the historical development of number systems, then yes, I do think our students should be exposed to such things. If you mean the rote memorization of arithmetic facts without any underlying conceptual framework, then no. If you mean exploring the not at all obvious fact that five groups of seven is the same as seven groups of five, then yes. If you mean making a rule that 5 x 7 = 7 x 5, then no. Doing mathematics should always mean discovering patterns and crafting beautiful and meaningful explanations.
+
+SIMPLICIO: What about geometry? Don't students prove things there? Isn't High School Geometry a perfect example of what you want math classes to be?
+
+## High School Geometry: Instrument of the Devil
+
+T here is nothing quite so vexing to the author of a scathing indictment as having the primary target of his venom offered up in his support. And never was a wolf in sheep's clothing as insidious, nor a false friend as treacherous, as High School Geometry. It is precisely because it is school's attempt to introduce students to the art of argument that makes it so very dangerous.
+
+Posing as the arena in which students will finally get to engage in true mathematical reasoning, this virus attacks mathematics at its heart, destroying the very essence of creative rational argument, poisoning the students' enjoyment of this fascinating and beautiful subject, and permanently disabling them from thinking about math in a natural and intuitive way.
+
+The mechanism behind this is subtle and devious. The student-victim is first stunned and paralyzed by an onslaught of pointless definitions, propositions, and notations, and is then slowly and painstakingly weaned away from any natural curiosity or intuition about shapes and their patterns by a systematic indoctrination into the stilted language and artificial format of so-called "formal geometric proof."
+
+All metaphor aside, geometry class is by far the most mentally and emotionally destructive component of the entire K-12 mathematics curriculum. Other math courses may hide the beautiful bird, or put it in a cage, but in geometry class it is openly and cruelly tortured. (Apparently I am incapable of putting all metaphor aside.)
+
+What is happening is the systematic undermining of the student's intuition. A proof, that is, a mathematical argument, is a work of fiction, a poem. Its goal is to satisfy. A beautiful proof should explain, and it should explain clearly, deeply, and elegantly. A well-written, well-crafted argument should feel like a splash of cool water, and be a beacon of light— it should refresh the spirit and illuminate the mind. And it should be charming.
+
+There is nothing charming about what passes for proof in geometry class. Students are presented a rigid and dogmatic format in which their so-called "proofs" are to be conducted— a format as unnecessary and inappropriate as insisting that children who wish to plant a garden refer to their flowers by genus and species.
+
+Let's look at some specific instances of this insanity. We'll begin with the example of two crossed lines:
+
+ Now the first thing that usually happens is the unnecessary muddying of the waters with excessive notation. Apparently, one cannot simply speak of two crossed lines; one must give elaborate names to them. And not simple names like ‘line 1' and ‘line 2,' or even ‘a' and ‘b.' We must (according to High School Geometry) select random and irrelevant points on these lines, and then refer to the lines using the special "line notation."
+
+19
+
+--DIAGRAM--
+
+You see, now we get to call them AB and CD. And God forbid you should omit the little bars on top— ‘AB' refers to the length of the line AB (at least I think that's how it works). Never mind how pointlessly complicated it is, this is the way one must learn to do it. Now comes the actual statement, usually referred to by some absurd name like
+
+PROPOSITION 2.1.1.
+
+Let AB and CD intersect at P. Then ∠APC ≅ ∠BPD.
+
+A
+
+C
+
+P
+--DIAGRAM--
+D
+
+B
+
+In other words, the angles on both sides are the same. Well, duh! The configuration of two crossed lines is symmetrical for crissake. And as if this wasn't bad enough, this patently obvious statement about lines and angles must then be "proved."
+
+Proof:
+
+Statement
+1. m∠APC + m∠APD = 180 
+     m∠BPD + m∠APD = 180 
+2. m∠APC + m∠APD = m∠BPD + m∠APD 
+3. m∠APD = m∠APD 
+4. m∠APC = m∠BPD 
+5. ∠APC ≅ ∠BPD
+
+
+Reason 
+1. Angle Addition Postulate
+2. Substitution Property 
+3. Reflexive Property of Equality 
+4. Subtraction Property of Equality 
+5. Angle Measurement Postulate
+
+Instead of a witty and enjoyable argument written by an actual human being, and conducted in one of the world's many natural languages, we get this sullen, soulless, bureaucratic form- letter of a proof. And what a mountain being made of a molehill! Do we really want to suggest that a straightforward observation like this requires such an extensive preamble? Be honest: did you actually even read it? Of course not. Who would want to?
+
+The effect of such a production being made over something so simple is to make people doubt their own intuition. Calling into question the obvious, by insisting that it be "rigorously proved" (as if the above even constitutes a legitimate formal proof) is to say to a student, "Your feelings and ideas are suspect. You need to think and speak our way."
+
+Now there is a place for formal proof in mathematics, no question. But that place is not a student's first introduction to mathematical argument. At least let people get familiar with some mathematical objects, and learn what to expect from them, before you start formalizing everything. Rigorous formal proof only becomes important when there is a crisis— when you discover that your imaginary objects behave in a counterintuitive way; when there is a paradox of some kind. But such excessive preventative hygiene is completely unnecessary here— nobody's gotten sick yet! Of course if a logical crisis should arise at some point, then obviously it should be investigated, and the argument made more clear, but that process can be carried out intuitively and informally as well. In fact it is the soul of mathematics to carry out such a dialogue with one's own proof.
+
+So not only are most kids utterly confused by this pedantry— nothing is more mystifying than a proof of the obvious— but even those few whose intuition remains intact must then retranslate their

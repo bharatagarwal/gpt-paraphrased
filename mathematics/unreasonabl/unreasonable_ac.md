@@ -1,0 +1,5 @@
+- The effectiveness of mathematics in science is unreasonable.
+- There are several explanations for this, including the selection of appropriate mathematics for a given situation and the limitations of science and mathematics.
+- However, these explanations are not enough to fully account for the phenomenon.
+- The evolution of man may have provided a model for our ability to reason and think logically.
+- Further exploration is needed to fully understand why mathematics is such a powerful tool in exploring the universe.

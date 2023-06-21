@@ -1,0 +1,5 @@
+- The current math curriculum needs to be scrapped and replaced with an active and joyful engagement with mathematical ideas.
+- Attempts to make math interesting or relevant to daily life appear forced and contrived.
+- Math should be taught as an art for art's sake, with relevance in the same way that any art does.
+- A good problem is something you don't know how to solve, and technique should be learned in context.
+- Teachers should engage with students and offer guidance, rather than relying on textbooks and rote training.

@@ -1,0 +1,4 @@
+- Role: Command Line App ShellGPT
+- Managing: Darwin/MacOS 13.4 operating system with zsh shell
+- Request: Provide plain text without Markdown formatting regarding the history and evolution of mathematics, including the extension of number systems and the importance of definitions and concepts in the development of mathematics.
+- Explanation of the unreasonable effectiveness of mathematics is provided under four headings, including the idea that we see what we look for and examples of how this is true in science, such as Galileo's discovery of the law of falling bodies through logical reasoning rather than experimentation.

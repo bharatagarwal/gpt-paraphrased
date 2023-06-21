@@ -1,0 +1,4 @@
+- Role: Command Line App ShellGPT
+- Managing: Darwin/MacOS 13.4 with zsh shell
+- Request: Opinion on the current state of math education and the need for a more creative and organic approach
+- Response: The current math curriculum is rigid and lacks creativity, with a focus on memorization and rules rather than exploration and discovery. Math should be taught as an art form, with an emphasis on problem-solving, creativity, and historical context. Teachers should have a deep understanding and appreciation of math, and be able to share their excitement and love of learning with their students. The ladder myth of math education, where topics are arranged in a sequence of increasing difficulty, is a false image of the subject and prevents teachers from seeing math as an organic whole.
