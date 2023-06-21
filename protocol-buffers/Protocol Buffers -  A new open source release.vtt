@@ -1,0 +1,252 @@
+So, ah, we've got an interesting release to share with you today.
+
+Ah, Kenton, could you please first introduce yourself?
+
+I'm Kenton Varda, I'm an engineer here.
+
+Cool.  So, what is it you've released today?
+
+So it's called Procol Buffers.
+It's the way we encode
+structured data here at Google.
+
+It's, um...
+
+The basic idea is, you write a "proto" file 
+which contains the definitions of
+
+structured data, and then run it through
+the protocol compiler
+
+which generate classes in C++ or Java
+or Python which represent those 
+structures that you've defined.
+
+And, each of these classes have accessors
+for all the fields you've defined, and then
+
+has methods for parsing and serializing the data
+in a compact and very fast format.
+
+It's the format we use for pretty much
+all our data interchange here at Google.
+
+Interesting.  So, when a lot of people think of 
+structured data, they think of XML,
+things like that.
+
+So, why are we not using XML?  How did
+we get to use this structure?
+
+Well, XML is nice, but, um..
+
+with the sheer quantity of data that we
+use here, it just wouldn't work, you know.
+
+It takes a while to decode and
+to encode, and it's kind of large.
+
+We need something extremely efficient.
+
+The other problem is that XML, depending
+on what kind of data you are representing,
+can be kind of cumbersome to use.
+
+Like if you are trying to represent something
+like HTML, which is, you know, text with
+markup, then XML is great.
+
+But if you're trying to just represent,
+you know, data structures that have
+some set of fields, each having a simple type,
+
+then XML, it's kind of cumbersome
+because you have to
+
+you know, navigate this DOM tree..
+
+and like, get element with name "whatever"
+
+and then get the inner text of that,
+and then parse that and this number
+and whatever you want to do.
+
+Right.  So this is all, like, typed information?
+
+Yes.  Protocol Buffers are strongly typed.
+
+Interesting.  So, the other comparison that
+people make is it sounds a little bit
+IDL-ish and CORBA and things like that come out.
+
+is it similar to that in some ways?
+
+Um.  All of these systems have different
+strengths and weaknesses.
+
+Um, Protocol Buffers is just a way to encode data,
+
+it's not an RPC system,
+though you could use it for RPC,
+and we do use it for RPC.
+
+Um, this release does not actually
+include any sort of
+RPC implementation
+
+and it can actually be...
+ it's designed to be used with any RPC
+implementation that you want to hook it up to
+
+Do you know historically how
+we came to end up with Protocol Buffers?
+
+Well, it's a long story...um..
+
+Protocol Buffers in their first incarnation
+appeared in, I believe, late
+
+I wasn't working here at the time, but, um...
+
+Jeff Dean and Sanjay Ghemawat,
+the guys who are responsible
+ for a lot of our big technologies
+
+like MapReduce and BigTable
+
+sort of, came up with this, um...
+
+at first.. I don't completely know the
+history because I wasn't there -
+but I guess at first
+
+it was just, you could define these proto files
+and it would just produce a set of constants
+
+you know, numeric constants that you could
+use to manually write parsers and encoders
+for various formats
+
+and then over time it evolved
+to the point where
+
+the protocol compiler automatically
+generates everything for you.
+
+OK, cool.  So you as the kind of end user developer
+just have this Java class that you get back
+that you can manipulate, so that you're saying
+
+GET to get various data back, and SET
+to put data into the system, and at a 
+lower level it's doing stuff with binary files
+
+Yeah, it's really simple,
+you just create your message class
+
+and call SET "whatever"
+
+accessors to set each field, and then
+
+serialize the string, or
+serialze to a
+
+output stream, or whatever.
+
+OK, so why do you think, ah, you know,
+now this is open source and
+people can start playing with this
+
+what kind of use cases do you see
+where people would want to use this vs.
+some of the other solutions that are out there?
+
+Where does this really fit in well?
+
+Basically, if you need a fast, compact
+format that's
+
+easy to define, and extensible
+
+meaning you can add fields, remove fields,
+and still be able to interact with
+
+older programs that are using
+the old version of the format
+
+then, ah, Protocol Buffers
+are a good solution.
+
+As I said before, they are not great
+for representing structured text.
+
+because they're not a text format, 
+and you can't just insert structure
+into text.
+
+They are also probably not great if you...
+
+...if your first priority is human readability,
+because obviously this is a binary format
+
+although there is a text format 
+that's useful for debugging,
+it's primarily a binary format.
+
+OK, you mentioned manipulating the data,
+is there versioning built into this schema,
+or how does that work?
+
+Ah, yes.  It's..
+
+you don't just declare a version, um..
+
+If you add new fields to your structures
+
+and then encode a message using those new fields
+
+old programs that don't know about them
+will just ignore them.
+
+OK.
+
+If you remove a field,
+old programs will just
+
+assume it has its default value.
+
+OK, cool.
+
+OK, so that's actually really useful.
+
+not have to mess around with schemas
+and working through all of those
+kind of systems
+
+if it's built into the protocol itself.
+
+That seems pretty useful.
+
+Cool.
+
+So, any final thoughts for developers
+taking a first peek at this
+open source package?
+
+Yeah, well, take a look at the docs
+
+download the code, it's all
+freely available
+
+and let us know what you think
+at our discussion group.
+
+Great, well, thanks so much for
+making this happen,
+
+I know a bunch of people that maybe have
+left Google that wish they had
+Protocol Buffers.
+
+So it's cool to see it out in the wild now,
+I really appreciate it.
